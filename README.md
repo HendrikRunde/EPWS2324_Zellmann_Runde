@@ -26,3 +26,13 @@ Das Projektvorhaben besteht darin, sowohl eine Desktop- als auch eine mobile Ver
 
 Die Relevanz zeigt sich in der Bewältigung weitverbreiteter finanzieller Herausforderungen, darunter mangelnde Transparenz bei den Ausgaben, Schwierigkeiten bei der Einnahmen- und Ausgabenverfolgung, die Notwendigkeit der finanziellen Planung und gezieltes Sparen in verschiedenen Ausgabenkategorien. Das Projekt hat das Potenzial, die finanzielle Bildung zu fördern und Benutzern dabei zu helfen, fundierte, finanzielle Entscheidungen zu treffen. Insgesamt trägt es zur Verbesserung der finanziellen Gesundheit, der Disziplin bei der eigenen Finanzverwaltung und zur Verwirklichung finanzieller Ziele bei, was in der heutigen Zeit von großer Bedeutung ist.
 (Altersvorsorge vor dem Hintergrund der Inflation und der Ungewissheit durch das Rentenproblem)
+
+# Artefakte und Themen bis Audit 1.
+
+- Zielsetzungen und Vorgehen
+- Abwägung von Methoden
+- Domänenmodelle
+- Zielhierchie & Projektplan
+- Anforderungen und Risiken
+- Erste architekturellen PoC`s
+- Folien
