@@ -1,6 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T15:54:42.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="22.1.0" etag="a9jqIiFMKKQYk18XDlcz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T17:06:12.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="XHkss0VBZUeBPOnVp0uK" version="22.1.0" type="github" pages="2">
   <diagram name="Seite-1" id="ENAJYbIRS-xXc1mgkytJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1949" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1qS0zIj6DiD3Kzll4mF-1" target="arLHDuDE0b5QU5cqxFCX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-1" value="junger &amp;nbsp;Erwachsener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-2" value="Regierung&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-3" value="Arbeitgeber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-4" value="Banken/ Finanzinstitute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-5" value="gesetzliche Rente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-6" value="Rentenkasse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-7" value="Beiträge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-8" value="monatliche Rente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-9" value="Einkommen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-10" value="Beitragsjahre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1qS0zIj6DiD3Kzll4mF-11" value="Erwachsener nach Renteneintritt&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-1" value="Experten für Altersvorsorge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-2" value="Konto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-3" target="arLHDuDE0b5QU5cqxFCX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-3" value="Ausgaben" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-4" target="arLHDuDE0b5QU5cqxFCX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-4" value="Einsparpotential" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-5" target="arLHDuDE0b5QU5cqxFCX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-5" target="arLHDuDE0b5QU5cqxFCX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-5" value="Einkommen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-7" value="verfügt über" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="438" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-9" value="wird überwiesen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="569.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-15" value="werden abgebucht" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-16" target="arLHDuDE0b5QU5cqxFCX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-16" value="Vermögen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-17" target="arLHDuDE0b5QU5cqxFCX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-17" value="Erziehungsberechtigte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-19" value="liegt auf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-21" value="vergrößert" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="569.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-24" value="unterstützt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-26" value="bietet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U68ZtrmKi3x4wbGx5Vmt" name="Seite-2">
+    <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
