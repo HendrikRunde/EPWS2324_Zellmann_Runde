@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T17:06:12.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="XHkss0VBZUeBPOnVp0uK" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-09T17:16:26.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="j4G-ZxlmrNywGZ_lNJPm" version="22.1.0" type="github" pages="2">
   <diagram name="Seite-1" id="ENAJYbIRS-xXc1mgkytJ">
     <mxGraphModel dx="1949" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,35 +13,35 @@
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-2" value="Regierung&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n1qS0zIj6DiD3Kzll4mF-3" target="arLHDuDE0b5QU5cqxFCX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-3" value="Arbeitgeber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-4" value="Banken/ Finanzinstitute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-5" value="gesetzliche Rente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-6" value="Rentenkasse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-7" value="Beiträge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-8" value="monatliche Rente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="n1qS0zIj6DiD3Kzll4mF-9" value="Einkommen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-10" value="Beitragsjahre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-11" value="Erwachsener nach Renteneintritt&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-1" value="Experten für Altersvorsorge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-2" value="Konto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="620" width="120" height="60" as="geometry" />
@@ -99,6 +99,18 @@
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-26" value="bietet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-27" value="Berufstätiger Erwachsener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-29" target="arLHDuDE0b5QU5cqxFCX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-29" value="Einnahmequellen(Mini-Job/ Azubi Gehalt/ Duales Studium/ Werkstudentenjob" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-31" value="stärken" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="428" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
