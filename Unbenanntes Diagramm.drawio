@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T17:55:01.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="ww640Sq9aFoWi7V4iWO5" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-09T18:11:22.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="2lLl_ia23VBwXnQAzsz5" version="22.1.0" type="github" pages="2">
   <diagram name="Seite-1" id="ENAJYbIRS-xXc1mgkytJ">
-    <mxGraphModel dx="2190" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-4" value="Banken/ Finanzinstitute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n1qS0zIj6DiD3Kzll4mF-5" target="n1qS0zIj6DiD3Kzll4mF-6">
           <mxGeometry relative="1" as="geometry" />
@@ -46,20 +46,26 @@
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-7" value="Beiträge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n1qS0zIj6DiD3Kzll4mF-8" target="arLHDuDE0b5QU5cqxFCX-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-8" value="monatliche Rente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-10" value="Beitragsjahre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1qS0zIj6DiD3Kzll4mF-11" target="n1qS0zIj6DiD3Kzll4mF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1qS0zIj6DiD3Kzll4mF-11" target="arLHDuDE0b5QU5cqxFCX-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n1qS0zIj6DiD3Kzll4mF-11" value="Erwachsener nach Renteneintritt&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-1" value="Experten für Altersvorsorge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-2" value="Konto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="620" width="120" height="60" as="geometry" />
@@ -125,6 +131,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-27" target="n1qS0zIj6DiD3Kzll4mF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arLHDuDE0b5QU5cqxFCX-27" target="arLHDuDE0b5QU5cqxFCX-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-27" value="Berufstätiger Erwachsener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -151,6 +163,33 @@
         </mxCell>
         <mxCell id="arLHDuDE0b5QU5cqxFCX-43" value="bezieht" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-45" value="alternative Altersvorsorgen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="509.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-46" value="private &amp;nbsp;Rente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-47" value="ETF Sparplan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-48" value="wird zu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-49" value="Tod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-51" value="braucht Finanzielle Mittel bis zum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-53" value="wird monatlich ausgezahlt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-55" value="arbeitet bis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="368" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arLHDuDE0b5QU5cqxFCX-57" value="informiert sich" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="438" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
