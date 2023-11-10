@@ -43,6 +43,9 @@ Präskriptives Domänenmodell:
 
 ![DomainModelEP drawio](https://github.com/HendrikRunde/EPWS2324_Zellmann_Runde/assets/92305681/9c3d3579-6aad-4ffb-9dcd-1e6c4c657919)
 
+Deskriptives Domänenmodell:
+![image](https://github.com/HendrikRunde/EPWS2324_Zellmann_Runde/assets/92305681/1ce411e4-b62e-4ca8-be5d-89cf4defb8c5)
+
 
 # Artefakte und Themen bis Audit 1.
 
