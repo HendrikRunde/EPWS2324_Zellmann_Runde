@@ -1,6 +1,6 @@
 # EPWS2324_Zellmann_Runde
 
-# Anwendung zur Verwaltung eigener/privater Finanzen (Finanzmanager)
+# Finanzratgeber für eine frühzeitige Altersvorsorge als Webanwendung
 
 # Einleitung
 
