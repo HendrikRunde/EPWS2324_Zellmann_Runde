@@ -287,7 +287,7 @@ function formatNumber(num) {
         <div class="container-fluid">
           <div class="row">
             <div class="col-sm-8">
-              <h3 class="mb-0">Finanzperspektive v1</h3>
+              <h3 class="mb-0">Finanzperspektive v2</h3>
             </div>
           </div>
         </div>
