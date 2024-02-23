@@ -14,7 +14,7 @@
                 <div class="p-3">
                     <div class="row">
                         <div class="col-12" v-for="item in props.data" :key="item">
-                            <div class="info-box mb-3 text-bg-danger" v-if="item"> <span class="info-box-icon">
+                            <div class="info-box mb-3 text-bg-success" v-if="item"> <span class="info-box-icon">
                                     <i class="bi bi-person-workspace"></i> </span> 
                                 <div class="info-box-content"> <span class="info-box-text">{{ item.name }}</span> <span
                                         class="info-box-number">{{ item.value }}€</span> </div>
